@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MaryAylla/MaryAylla/main/capa-github.png" alt="Banner de capa" style="width:100%; border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/MaryAylla/MaryAylla/main/capa-github.jpg" alt="Banner de capa" style="width:100%; border-radius: 8px;" />
 
 # Olá, eu sou Maryanna Áylla!
 
