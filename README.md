@@ -42,7 +42,7 @@ Atualmente estou desenvolvendo a **Imersys**, uma startup voltada para a criaç�
 
 ## 🤝 Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-@maryaylla-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/maryaylla)  
+[![Instagram](https://img.shields.io/badge/-@mary_.aylla-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mary_.aylla)  
 [![LinkedIn](https://img.shields.io/badge/-MaryannaÁylla-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryanna-aylla/)  
 
 ---
